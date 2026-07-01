@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Yameen Chaudhary 👋
+# Hi, I'm Muhammad Yameen👋
 
 🎓 BS Computer Science student at UET Lahore  
 🤖 Interested in Artificial Intelligence, Web Development, App Development, Software Development & Machine Learning  
