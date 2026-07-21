@@ -22,7 +22,7 @@
 
 ### About Me
 
-- Building OOP-based projects in C# — Hotel Management System, Space Shooter Game
+- Building OOP-based projects in C#  Hotel Management System, Space Shooter Game
 - Strengthening fundamentals in Data Structures, DBMS, and core Programming
 - Exploring Machine Learning concepts and Prompt Engineering
 - Completed the **AMD Developer Hackathon**
