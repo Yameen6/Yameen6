@@ -1,33 +1,59 @@
-# Hi, I'm Muhammad Yameen👋
+<h1 align="center">Hi, I'm Muhammad Yameen 👋</h1>
 
-🎓 BS Computer Science student at UET Lahore  
-🤖 Interested in Artificial Intelligence, Web Development, App Development, Software Development & Machine Learning  
-📫 Reach me at yameen.ch66e@gmail.com
+<p align="center">
+🎓 BS Computer Science Student @ UET Lahore &nbsp;|&nbsp;
+🤖 AI, Web, App & Software Development &nbsp;|&nbsp;
+🚀 Machine Learning Enthusiast
+</p>
 
-## About
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-yameen-chaudhary/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yameen.ch66e@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yameench-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-**What I'm working on**
-- Building OOP-based projects in C# (Hotel Management System, Space Shooter Game)
-- Strengthening my fundamentals in Data Structures, DBMS and Programming
-- Exploring Machine Learning concepts and Prompt Engineering
+---
 
-**What I'm currently learning**
-- Object Oriented Programming
+### 🧑‍💻 About Me
+
+- 🔭 Building OOP-based projects in C# — Hotel Management System, Space Shooter Game
+- 📚 Strengthening fundamentals in Data Structures, DBMS, and core Programming
+- 🧠 Exploring Machine Learning concepts and Prompt Engineering
+- 🏆 Completed the **AMD Developer Hackathon**
+- 🥈 Qualified the round of an **International Computer Science Competition**
+
+### 🌱 Currently Learning
+
+- Object-Oriented Programming
 - Advanced Data Structures & Algorithms
 - Prompt Engineering
 
-## Skills
-- **Languages:** C, C++, C#, Python, HTML, CSS, JS, PHP, MySQL
-- **Focus areas:** Web Development, Software Development
+---
 
-d) **Featured Projects**
-**Hotel Managemnt system**     Software developed in OOP course.
-**Space Shooter Game**         Game developed in my PF course.
-**RC CAR**                    Developed in my DLD course.
-**Banking Management system** Developed in Database system course.
+### 🛠️ Skills
 
-**Connect With me**
-yameen.ch66e@gamil.com                                                                        
-+92305-4917120
-https://www.linkedin.com/in/muhammad-yameen-chaudhary/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bw%2BWvLmoLQGy%2BriaJmnbgLQ%3D%3D
+**Languages:** C, C++, C#, Python, HTML, CSS, JavaScript, PHP, MySQL
+**Focus Areas:** Web Development, Software Development, Machine Learning
 
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| **Hotel Management System** | Software developed using OOP principles |
+| **Space Shooter Game** | Game developed in Programming Fundamentals course |
+| **RC Car** | Hardware/software project built in DLD course |
+| **Banking Management System** | Developed in Database Systems course |
+
+---
+
+<p align="center">
+  📫 <b>Reach me:</b> yameen.ch66e@gmail.com
+</p>
