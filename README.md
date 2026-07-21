@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Yameen </h1>
+<h1 align="center"> Muhammad Yameen </h1>
 
 <p align="center">
  BS Computer Science Student @ UET Lahore &nbsp;|&nbsp;
